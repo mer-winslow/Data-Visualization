@@ -18,4 +18,4 @@ These questions are *especially* **important** because
 ## Interpreting Visualizations
 <img width="439" alt="image" src="https://github.com/mer-winslow/Data-Visualization/assets/168783522/771c0867-cc5a-44f9-8629-2564f155eaca">
 
-## Interpreting Visualizations
+## Discussion & Summary
