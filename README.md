@@ -1,2 +1,2 @@
 # Data-Visualization
-this is for a data v course project
+Author: Meredith Winslow (mwinslow2@elon.edu)
