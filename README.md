@@ -16,7 +16,7 @@ These questions are  **important** because they can help telecommunications comp
 I was able to download the data directly from Kaggle into an excel, which I cleaned to include only the following columns: Customer ID, Gender (male or female), Contract (month-by-month, one-year, or two-year), Customer Status (joined, churned, or stayed) and Churn Category(competitor, dissatisfaction, price, attitude, or other). All of the variables are categorical. The link to my data set is here:   https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
 
 ## Interpreting Visualizations
-Here is a link to my streamlit application: https://meredithvisualizationfinal.streamlit.app/
+Here is a link to my streamlit application: [https://meredithvisualizationfinal.streamlit.app/](https://meredithvisualizationfinal.streamlit.app/)
 
 <img width="407" alt="image" src="https://github.com/mer-winslow/Data-Visualization/assets/168783522/adc8fafd-9673-4fe0-b730-4820cc3d4ffb">
 
