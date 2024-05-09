@@ -40,6 +40,8 @@ I asked ChatGPT my initial questions to see if it would produce conclusions simi
 -Q3: Customers often churn due to factors like high prices, poor service quality, unsatisfactory customer support, unfavorable contract terms, or outdated technology, with the reasons sometimes varying by gender based on different preferences and usage patterns.
 AI seemed to do well with question 1 and 3, but I was suprised to see that it gave an answer opposite to my findings for question 2. My visualization shows that older aged customers are more likely to churn, not younger. 
 
+##Code
+
 ```
 import pandas as pd
 import streamlit as st
